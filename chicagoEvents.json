@@ -1,0 +1,567 @@
+{
+  "source_url": "https://nextdoor.com/local_events/",
+  "extracted_at": "2026-10-01T17:12:27.500643+00:00",
+  "event_count": 93,
+  "stop_reason": "bottom_reached_no_new_events",
+  "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
+  "events": [
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 1·3pm·",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nThu, Oct 1·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 1·5pm·",
+      "raw_text": "Jack's Pumpkin Pop Up\nThu, Oct 1·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 2·12am·",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nFri, Oct 2·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 2·11am·",
+      "raw_text": "Serial Killer: The Exhibition\nFri, Oct 2·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 2·3pm·",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nFri, Oct 2·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 2·5pm·",
+      "raw_text": "SAUCED Night Market\nFri, Oct 2·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 2·6pm·",
+      "raw_text": "THE BASE CHICAGO'S GRAND SLAM COMEDY JAM\nFri, Oct 2·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 2·7pm·",
+      "raw_text": "Campfire Horrors: The Rocky Horror Picture Show\nFri, Oct 2·7pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 2·8pm·",
+      "raw_text": "Freedom Riders with special guests Kurt Elling & Lizz Wright\nFri, Oct 2·8pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·12am·",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nSat, Oct 3·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·5am·",
+      "raw_text": "RiverLab: River Exploration Paddle at Park No. 571\nSat, Oct 3·5am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·8am·",
+      "raw_text": "Walk to End Alzheimer's 2026 Register/Volunteer/Donate\nSat, Oct 3·8am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·8:30am·",
+      "raw_text": "Surf Pine Grove Garage sale\nSat, Oct 3·8:30am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·9am·",
+      "raw_text": "Teen Ambassadors\nSat, Oct 3·9am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·10am·",
+      "raw_text": "Zero Landfill Chicago 2026 - Free Interior Design Samples\nSat, Oct 3·10am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·10:30am·",
+      "raw_text": "Walking Tour | Pilsen Murals\nSat, Oct 3·10:30am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·11am·",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nSat, Oct 3·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·12pm·",
+      "raw_text": "Gallery Guichard Soul of the Stone & the Field Museum 'Sounds of Diaspora'\nSat, Oct 3·12pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·1pm·",
+      "raw_text": "World of Diamonds\nSat, Oct 3·1pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·1:10pm·",
+      "raw_text": "ALDS Home Game 1\nSat, Oct 3·1:10pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·2pm·",
+      "raw_text": "LEGO® Club\nSat, Oct 3·2pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·3pm·",
+      "raw_text": "Topdog/Underdog\nSat, Oct 3·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·5pm·",
+      "raw_text": "Jack's Pumpkin Pop Up\nSat, Oct 3·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·6pm·",
+      "raw_text": "Pilsen Malört Fest 2026\nSat, Oct 3·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·6:30pm·",
+      "raw_text": "Ministry and Acid Bath with Windhand\nSat, Oct 3·6:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·8pm·",
+      "raw_text": "UFC 332 Viewing Party at Mac’s Wood Grilled\nSat, Oct 3·8pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·8:30pm·",
+      "raw_text": "Gold Coast iconic piano bar!\nSat, Oct 3·8:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sat, Oct 3·9pm·",
+      "raw_text": "Afrobeats to the World\nSat, Oct 3·9pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·12am·",
+      "raw_text": "Stephen Day , The Self Titled Tour\nSun, Oct 4·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·7:45am·",
+      "raw_text": "Adoptable Puppy Yoga at 360 CHICAGO Benefitting One Tail at a Time\nSun, Oct 4·7:45am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·8am·",
+      "raw_text": "Wicker Park Farmers Market\nSun, Oct 4·8am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·9am·",
+      "raw_text": "FORMULA 1® GULF AIR BAHRAIN GRAND PRIX™ Rewatch Party at F1®Arcade Chicago\nSun, Oct 4·9am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·10:45am·",
+      "raw_text": "🖨️🏙️ Ink, Iron & Industry — A Printer’s Row Walk! 🚶‍♀️📚\nSun, Oct 4·10:45am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·11am·",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nSun, Oct 4·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·12pm·",
+      "raw_text": "Bears vs Jets At The Bottle\nSun, Oct 4·12pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·1pm·",
+      "raw_text": "Operation Mincemeat\nSun, Oct 4·1pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·2pm·",
+      "raw_text": "Play On!\nSun, Oct 4·2pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·2:30pm·",
+      "raw_text": "Vape! The Grease Parody\nSun, Oct 4·2:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·4pm·",
+      "raw_text": "Parkinson's Foundation Fundraiser at Zanies\nSun, Oct 4·4pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·5pm·",
+      "raw_text": "Jack's Pumpkin Pop Up\nSun, Oct 4·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 4·7pm·",
+      "raw_text": "Bill Burr\nSun, Oct 4·7pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Mon, Oct 5·12am·",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nMon, Oct 5·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Mon, Oct 5·11am·",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nMon, Oct 5·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Mon, Oct 5·3pm·",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nMon, Oct 5·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Mon, Oct 5·4pm·",
+      "raw_text": "Osteria Gilberto Is Now Open in Lincoln Park\nMon, Oct 5·4pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Mon, Oct 5·5pm·",
+      "raw_text": "Jack's Pumpkin Pop Up\nMon, Oct 5·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Mon, Oct 5·6pm·",
+      "raw_text": "Quilling the Stars Workshop\nMon, Oct 5·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Mon, Oct 5·6:30pm·",
+      "raw_text": "bunii - BUNIIVERSITY TOUR with Crayon presented by Thalia Hall and Kickstand Productions\nMon, Oct 5·6:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·12am·",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nTue, Oct 6·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·10am·",
+      "raw_text": "Istock Family Look-In Lab\nTue, Oct 6·10am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·11am·",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nTue, Oct 6·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·12pm·",
+      "raw_text": "Millennium Park Outdoor Public Art Walking Tour\nTue, Oct 6·12pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·2pm·",
+      "raw_text": "A Christmas Carol\nTue, Oct 6·2pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·3pm·",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nTue, Oct 6·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·4pm·",
+      "raw_text": "Aba's Happy Hour\nTue, Oct 6·4pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·4:30pm·",
+      "raw_text": "Marketing Disrupted - The New Marketing Funnel\nTue, Oct 6·4:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·5pm·",
+      "raw_text": "Good Luck, Babe\nTue, Oct 6·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·6pm·",
+      "raw_text": "Neighbor Night\nTue, Oct 6·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·7pm·",
+      "raw_text": "Chicago Blackhawks vs St. Louis Blues\nTue, Oct 6·7pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 6·8pm·",
+      "raw_text": "Mind Enterprises\nTue, Oct 6·8pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·12am·",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nWed, Oct 7·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·9am·",
+      "raw_text": "WTTW First Wednesdays at The Field Museum\nWed, Oct 7·9am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·10am·",
+      "raw_text": "RiverWorks\nWed, Oct 7·10am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·11am·",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nWed, Oct 7·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·1pm·",
+      "raw_text": "Play On!\nWed, Oct 7·1pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·2pm·",
+      "raw_text": "A Christmas Carol\nWed, Oct 7·2pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·3pm·",
+      "raw_text": "THE CUBE Offers a New Option for Group Gatherings\nWed, Oct 7·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·3:30pm·",
+      "raw_text": "LEGO® and Games Club\nWed, Oct 7·3:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·4pm·",
+      "raw_text": "Osteria Gilberto Is Now Open in Lincoln Park\nWed, Oct 7·4pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·5pm·",
+      "raw_text": "Chicago Art Fair\nWed, Oct 7·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·5:30pm·",
+      "raw_text": "Networking Extravaganza\nWed, Oct 7·5:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·6pm·",
+      "raw_text": "!Bracket at the Emporium\nWed, Oct 7·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·6:30pm·",
+      "raw_text": "The Residents' - Eskimo Live\nWed, Oct 7·6:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·7pm·",
+      "raw_text": "Elizabeth Nichols\nWed, Oct 7·7pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 7·8pm·",
+      "raw_text": "Wesley Joseph\nWed, Oct 7·8pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 8·12am·",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nThu, Oct 8·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 8·9am·",
+      "raw_text": "Zicam and Simply Saline Stay Prepared Pop - Up\nThu, Oct 8·9am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 8·10am·",
+      "raw_text": "Jet's Pizza Partners with the Alzheimer's Association\nThu, Oct 8·10am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 8·11am·",
+      "raw_text": "Pumpkin Painting + Dining Experience\nThu, Oct 8·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 8·3pm·",
+      "raw_text": "THE CUBE Offers a New Option for Group Gatherings\nThu, Oct 8·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 8·4pm·",
+      "raw_text": "Osteria Gilberto Is Now Open in Lincoln Park\nThu, Oct 8·4pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 8·5pm·",
+      "raw_text": "Oktoberfest Nation Chicago | Fulton Market\nThu, Oct 8·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 8·6pm·",
+      "raw_text": "IWC Fall Harvest\nThu, Oct 8·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 9·6pm·",
+      "raw_text": "Movie Adaptions: What Works and What Doesn't\nFri, Oct 9·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 13·8pm·",
+      "raw_text": "(FREE) WDCB 90.9FM feat. George Fludas & Trio Nexus in a Centennial Celebration of Ray Brown\nTue, Oct 13·8pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Wed, Oct 14·5pm·",
+      "raw_text": "Jazz Links Jam Session - ages 9 - 19 (FREE)\nWed, Oct 14·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Oct 15·12:15am·",
+      "raw_text": "World Fashion Festival\nThu, Oct 15·12:15am·\nChicago, IL\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Sun, Oct 18·1pm·",
+      "raw_text": "St. James Lutheran - Pet Blessing Event\nSun, Oct 18·1pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Tue, Oct 20·4:30pm·",
+      "raw_text": "NEIU-Jacob H. Carruthers Center Open House\nTue, Oct 20·4:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Fri, Oct 23·6pm·",
+      "raw_text": "The 2026 Pegasus Awards Reading (FREE)\nFri, Oct 23·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Nov 12·3pm·",
+      "raw_text": "Realignmed's Fall Beauty Showcase!\nThu, Nov 12·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Nov 26·5am·",
+      "raw_text": "Chicago Thanksgiving Parade 2026\nThu, Nov 26·5am·\nChicago, IL\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Interested?",
+      "date_text": "Thu, Apr 29·2pm·",
+      "raw_text": "04/29/27 - 05/02/27 Travel to Obama Presidential Center, Chicago, Ill Fundraising Trip\nThu, Apr 29·2pm·\nChicago, IL\nInterested?"
+    }
+  ]
+}
