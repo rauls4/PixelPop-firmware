@@ -1,48 +1,12 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-01T18:09:23.902165+00:00",
-  "event_count": 102,
-  "duplicates_removed": 50,
+  "extracted_at": "2026-10-02T12:00:49.321684+00:00",
+  "event_count": 101,
+  "duplicates_removed": 45,
   "image_count": 0,
   "stop_reason": "bottom_reached_no_new_events",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Taste 222 Daily Happy Hour & Weekly Specials",
-      "date_text": "Thu, Oct 1·3pm·",
-      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nThu, Oct 1·3pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Oktoberfest Nation Chicago | Fulton Market",
-      "date_text": "Thu, Oct 1·5pm·",
-      "raw_text": "Oktoberfest Nation Chicago | Fulton Market\nThu, Oct 1·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jack's Pumpkin Pop Up",
-      "date_text": "Thu, Oct 1·5pm·",
-      "raw_text": "Jack's Pumpkin Pop Up\nThu, Oct 1·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Icona Pop",
-      "date_text": "Fri, Oct 2·12am·",
-      "raw_text": "Icona Pop\nFri, Oct 2·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Leah Da Gloria S/S 2027 Trunk Show",
-      "date_text": "Fri, Oct 2·12am·",
-      "raw_text": "Leah Da Gloria S/S 2027 Trunk Show\nFri, Oct 2·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
-      "date_text": "Fri, Oct 2·12am·",
-      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nFri, Oct 2·12am·\nChicago\nInterested?"
-    },
     {
       "source": "visible_card",
       "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
@@ -54,6 +18,24 @@
       "title": "Serial Killer: The Exhibition",
       "date_text": "Fri, Oct 2·11am·",
       "raw_text": "Serial Killer: The Exhibition\nFri, Oct 2·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Taste 222 Daily Happy Hour & Weekly Specials",
+      "date_text": "Fri, Oct 2·3pm·",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nFri, Oct 2·3pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Oktoberfest Nation Chicago | Fulton Market",
+      "date_text": "Fri, Oct 2·5pm·",
+      "raw_text": "Oktoberfest Nation Chicago | Fulton Market\nFri, Oct 2·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Jack's Pumpkin Pop Up",
+      "date_text": "Fri, Oct 2·5pm·",
+      "raw_text": "Jack's Pumpkin Pop Up\nFri, Oct 2·5pm·\nChicago\nInterested?"
     },
     {
       "source": "visible_card",
@@ -90,6 +72,18 @@
       "title": "Freedom Riders with special guests Kurt Elling & Lizz Wright",
       "date_text": "Fri, Oct 2·8pm·",
       "raw_text": "Freedom Riders with special guests Kurt Elling & Lizz Wright\nFri, Oct 2·8pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Leah Da Gloria S/S 2027 Trunk Show",
+      "date_text": "Sat, Oct 3·12am·",
+      "raw_text": "Leah Da Gloria S/S 2027 Trunk Show\nSat, Oct 3·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
+      "date_text": "Sat, Oct 3·12am·",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nSat, Oct 3·12am·\nChicago\nInterested?"
     },
     {
       "source": "visible_card",
