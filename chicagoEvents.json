@@ -1,96 +1,12 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-02T12:00:49.321684+00:00",
-  "event_count": 101,
-  "duplicates_removed": 45,
+  "extracted_at": "2026-10-03T12:00:52.679144+00:00",
+  "event_count": 110,
+  "duplicates_removed": 48,
   "image_count": 0,
   "stop_reason": "bottom_reached_no_new_events",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
-      "date_text": "Fri, Oct 2·11am·",
-      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nFri, Oct 2·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Serial Killer: The Exhibition",
-      "date_text": "Fri, Oct 2·11am·",
-      "raw_text": "Serial Killer: The Exhibition\nFri, Oct 2·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Taste 222 Daily Happy Hour & Weekly Specials",
-      "date_text": "Fri, Oct 2·3pm·",
-      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nFri, Oct 2·3pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Oktoberfest Nation Chicago | Fulton Market",
-      "date_text": "Fri, Oct 2·5pm·",
-      "raw_text": "Oktoberfest Nation Chicago | Fulton Market\nFri, Oct 2·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jack's Pumpkin Pop Up",
-      "date_text": "Fri, Oct 2·5pm·",
-      "raw_text": "Jack's Pumpkin Pop Up\nFri, Oct 2·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "SAUCED Night Market",
-      "date_text": "Fri, Oct 2·5pm·",
-      "raw_text": "SAUCED Night Market\nFri, Oct 2·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "THE BASE CHICAGO'S GRAND SLAM COMEDY JAM",
-      "date_text": "Fri, Oct 2·6pm·",
-      "raw_text": "THE BASE CHICAGO'S GRAND SLAM COMEDY JAM\nFri, Oct 2·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "St. James Oktoberfest 2026",
-      "date_text": "Fri, Oct 2·7pm·",
-      "raw_text": "St. James Oktoberfest 2026\nFri, Oct 2·7pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "St. James 2026 Oktoberfest (FREE)",
-      "date_text": "Fri, Oct 2·7pm·",
-      "raw_text": "St. James 2026 Oktoberfest (FREE)\nFri, Oct 2·7pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Campfire Horrors: The Rocky Horror Picture Show",
-      "date_text": "Fri, Oct 2·7pm·",
-      "raw_text": "Campfire Horrors: The Rocky Horror Picture Show\nFri, Oct 2·7pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Freedom Riders with special guests Kurt Elling & Lizz Wright",
-      "date_text": "Fri, Oct 2·8pm·",
-      "raw_text": "Freedom Riders with special guests Kurt Elling & Lizz Wright\nFri, Oct 2·8pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Leah Da Gloria S/S 2027 Trunk Show",
-      "date_text": "Sat, Oct 3·12am·",
-      "raw_text": "Leah Da Gloria S/S 2027 Trunk Show\nSat, Oct 3·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
-      "date_text": "Sat, Oct 3·12am·",
-      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nSat, Oct 3·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "RiverLab: River Exploration Paddle at Park No. 571",
-      "date_text": "Sat, Oct 3·5am·",
-      "raw_text": "RiverLab: River Exploration Paddle at Park No. 571\nSat, Oct 3·5am·\nChicago\nInterested?"
-    },
     {
       "source": "visible_card",
       "title": "Walk to End Alzheimer's 2026 Register/Volunteer/Donate",
@@ -135,9 +51,21 @@
     },
     {
       "source": "visible_card",
+      "title": "Serial Killer: The Exhibition",
+      "date_text": "Sat, Oct 3·11am·",
+      "raw_text": "Serial Killer: The Exhibition\nSat, Oct 3·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
       "title": "TEDxChicago 2026: We The People",
       "date_text": "Sat, Oct 3·11am·",
       "raw_text": "TEDxChicago 2026: We The People\nSat, Oct 3·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
+      "date_text": "Sat, Oct 3·11am·",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nSat, Oct 3·11am·\nChicago\nInterested?"
     },
     {
       "source": "visible_card",
@@ -189,9 +117,15 @@
     },
     {
       "source": "visible_card",
-      "title": "Chicago Steel vs. Green Bay Gamblers",
-      "date_text": "Sat, Oct 3·6pm·",
-      "raw_text": "Chicago Steel vs. Green Bay Gamblers\nSat, Oct 3·6pm·\nChicago\nInterested?"
+      "title": "Oktoberfest Nation Chicago | Fulton Market",
+      "date_text": "Sat, Oct 3·5pm·",
+      "raw_text": "Oktoberfest Nation Chicago | Fulton Market\nSat, Oct 3·5pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Jack's Pumpkin Pop Up",
+      "date_text": "Sat, Oct 3·5pm·",
+      "raw_text": "Jack's Pumpkin Pop Up\nSat, Oct 3·5pm·\nChicago\nInterested?"
     },
     {
       "source": "visible_card",
@@ -204,6 +138,12 @@
       "title": "Pilsen Malört Fest 2026",
       "date_text": "Sat, Oct 3·6pm·",
       "raw_text": "Pilsen Malört Fest 2026\nSat, Oct 3·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Chicago Steel vs. Green Bay Gamblers",
+      "date_text": "Sat, Oct 3·6pm·",
+      "raw_text": "Chicago Steel vs. Green Bay Gamblers\nSat, Oct 3·6pm·\nChicago\nInterested?"
     },
     {
       "source": "visible_card",
@@ -252,6 +192,18 @@
       "title": "CSO Classical",
       "date_text": "Sun, Oct 4·12am·",
       "raw_text": "CSO Classical\nSun, Oct 4·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
+      "date_text": "Sun, Oct 4·12am·",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nSun, Oct 4·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Leah Da Gloria S/S 2027 Trunk Show",
+      "date_text": "Sun, Oct 4·12am·",
+      "raw_text": "Leah Da Gloria S/S 2027 Trunk Show\nSun, Oct 4·12am·\nChicago\nInterested?"
     },
     {
       "source": "visible_card",
@@ -318,6 +270,12 @@
       "title": "Haley Reinhart",
       "date_text": "Mon, Oct 5·12am·",
       "raw_text": "Haley Reinhart\nMon, Oct 5·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Taste 222 Daily Happy Hour & Weekly Specials",
+      "date_text": "Mon, Oct 5·3pm·",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nMon, Oct 5·3pm·\nChicago\nInterested?"
     },
     {
       "source": "visible_card",
@@ -555,9 +513,105 @@
     },
     {
       "source": "visible_card",
+      "title": "Renny Conti, Split Second Tour James Eichman",
+      "date_text": "Fri, Oct 9·12am·",
+      "raw_text": "Renny Conti, Split Second Tour James Eichman\nFri, Oct 9·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Estee Couture 2027 Trunk Show",
+      "date_text": "Fri, Oct 9·12am·",
+      "raw_text": "Estee Couture 2027 Trunk Show\nFri, Oct 9·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Deerhoof , SOLAR FAN CLUB TOUR 2026 Ira Glass , Navaja",
+      "date_text": "Fri, Oct 9·12am·",
+      "raw_text": "Deerhoof , SOLAR FAN CLUB TOUR 2026 Ira Glass , Navaja\nFri, Oct 9·12am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Behind the Scenes at the Field Museum (Chicago)",
+      "date_text": "Fri, Oct 9·7am·",
+      "raw_text": "Behind the Scenes at the Field Museum (Chicago)\nFri, Oct 9·7am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "St. Jude Heroes-Bank of America Chicago Marathon Expo",
+      "date_text": "Fri, Oct 9·8:30am·",
+      "raw_text": "St. Jude Heroes-Bank of America Chicago Marathon Expo\nFri, Oct 9·8:30am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Kintsugi Workshop: Repair and Reconnect",
+      "date_text": "Fri, Oct 9·10:30am·",
+      "raw_text": "Kintsugi Workshop: Repair and Reconnect\nFri, Oct 9·10:30am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Emma Stebbins: Carving out History at Driehaus Museum",
+      "date_text": "Fri, Oct 9·11am·",
+      "raw_text": "Emma Stebbins: Carving out History at Driehaus Museum\nFri, Oct 9·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "NFL Game Day Deals at Mac's Wood Grilled",
+      "date_text": "Fri, Oct 9·11am·",
+      "raw_text": "NFL Game Day Deals at Mac's Wood Grilled\nFri, Oct 9·11am·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "State and Lake Chicago Tavern Marathon Meals",
+      "date_text": "Fri, Oct 9·12pm·",
+      "raw_text": "State and Lake Chicago Tavern Marathon Meals\nFri, Oct 9·12pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Marathon meals at FireLake Grill House & Cocktail Bar",
+      "date_text": "Fri, Oct 9·12pm·",
+      "raw_text": "Marathon meals at FireLake Grill House & Cocktail Bar\nFri, Oct 9·12pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "ROBBY HOFFMAN: LIVE ON TOUR",
+      "date_text": "Fri, Oct 9·6pm·",
+      "raw_text": "ROBBY HOFFMAN: LIVE ON TOUR\nFri, Oct 9·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "The Heart of the Story at Douglass",
+      "date_text": "Fri, Oct 9·6pm·",
+      "raw_text": "The Heart of the Story at Douglass\nFri, Oct 9·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Queer Nerd Meetup at Goblin Market",
+      "date_text": "Fri, Oct 9·6pm·",
+      "raw_text": "Queer Nerd Meetup at Goblin Market\nFri, Oct 9·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
       "title": "Movie Adaptions: What Works and What Doesn't",
       "date_text": "Fri, Oct 9·6pm·",
       "raw_text": "Movie Adaptions: What Works and What Doesn't\nFri, Oct 9·6pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Jerry Seinfeld Live!",
+      "date_text": "Fri, Oct 9·7pm·",
+      "raw_text": "Jerry Seinfeld Live!\nFri, Oct 9·7pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "National Park After Dark: Your Neck of the Woods Tour",
+      "date_text": "Fri, Oct 9·7:30pm·",
+      "raw_text": "National Park After Dark: Your Neck of the Woods Tour\nFri, Oct 9·7:30pm·\nChicago\nInterested?"
+    },
+    {
+      "source": "visible_card",
+      "title": "Mäkelä, Petrushka & Belshazzar’s Feast",
+      "date_text": "Fri, Oct 9·7:30pm·",
+      "raw_text": "Mäkelä, Petrushka & Belshazzar’s Feast\nFri, Oct 9·7:30pm·\nChicago\nInterested?"
     },
     {
       "source": "visible_card",
