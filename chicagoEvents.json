@@ -1,6 +1,6 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-05T01:40:13.264650+00:00",
+  "extracted_at": "2026-10-05T12:00:19.911057+00:00",
   "event_count": 10,
   "duplicates_removed": 78,
   "image_count": 10,
@@ -8,30 +8,6 @@
   "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
-      "date_text": "Mon, Oct 5·12am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
-      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nMon, Oct 5·12am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JsDzXhOiQE2aWr0VBtWjSw.large.jpg",
-      "image_path": "chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/4cbd6ccafda13fb89627cc08-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/4cbd6ccafda13fb89627cc08-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Haley Reinhart",
-      "date_text": "Mon, Oct 5·12am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/ca32a653895dbc6cb98be0d8.png",
-      "raw_text": "Haley Reinhart\nMon, Oct 5·12am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Y87SGEinNUuoRjmthHp9Bg.large.png",
-      "image_path": "chicagoEvents-images/ca32a653895dbc6cb98be0d8.png",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/ca32a653895dbc6cb98be0d8-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/ca32a653895dbc6cb98be0d8-32x64-pan.jpg"
-    },
     {
       "source": "visible_card",
       "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
@@ -127,6 +103,30 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/97fbee91cc70c8dd8cc5e160-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/97fbee91cc70c8dd8cc5e160-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
+      "date_text": "Tue, Oct 6·12am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nTue, Oct 6·12am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JsDzXhOiQE2aWr0VBtWjSw.large.jpg",
+      "image_path": "chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/4cbd6ccafda13fb89627cc08-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/4cbd6ccafda13fb89627cc08-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Anywho Whooptie Woo, Hosted by Natalia Sovero, Craig Bruns, Grant Bruns",
+      "date_text": "Tue, Oct 6·12am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/6428e9e4bacf50b66f64faf9.png",
+      "raw_text": "Anywho Whooptie Woo, Hosted by Natalia Sovero, Craig Bruns, Grant Bruns\nTue, Oct 6·12am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eCNGe5JVZUaZIx96vDJb2g.large.png",
+      "image_path": "chicagoEvents-images/6428e9e4bacf50b66f64faf9.png",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/6428e9e4bacf50b66f64faf9-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/6428e9e4bacf50b66f64faf9-32x64-pan.jpg"
     }
   ]
 }
