@@ -1,683 +1,112 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-04T12:00:55.888629+00:00",
-  "event_count": 112,
-  "duplicates_removed": 56,
-  "image_count": 0,
-  "stop_reason": "bottom_reached_no_new_events",
+  "extracted_at": "2026-10-05T01:04:51.714799+00:00",
+  "event_count": 10,
+  "duplicates_removed": 78,
+  "image_count": 10,
+  "max_events": 10,
+  "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
     {
       "source": "visible_card",
-      "title": "Adoptable Puppy Yoga at 360 CHICAGO Benefitting One Tail at a Time",
-      "date_text": "Sun, Oct 4·7:45am·",
-      "raw_text": "Adoptable Puppy Yoga at 360 CHICAGO Benefitting One Tail at a Time\nSun, Oct 4·7:45am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Wicker Park Farmers Market",
-      "date_text": "Sun, Oct 4·8am·",
-      "raw_text": "Wicker Park Farmers Market\nSun, Oct 4·8am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "FORMULA 1® GULF AIR BAHRAIN GRAND PRIX™ Rewatch Party at F1®Arcade Chicago",
-      "date_text": "Sun, Oct 4·9am·",
-      "raw_text": "FORMULA 1® GULF AIR BAHRAIN GRAND PRIX™ Rewatch Party at F1®Arcade Chicago\nSun, Oct 4·9am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "🖨️🏙️ Ink, Iron & Industry — A Printer’s Row Walk! 🚶‍♀️📚",
-      "date_text": "Sun, Oct 4·10:45am·",
-      "raw_text": "🖨️🏙️ Ink, Iron & Industry — A Printer’s Row Walk! 🚶‍♀️📚\nSun, Oct 4·10:45am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Serial Killer: The Exhibition",
-      "date_text": "Sun, Oct 4·11am·",
-      "raw_text": "Serial Killer: The Exhibition\nSun, Oct 4·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
-      "date_text": "Sun, Oct 4·11am·",
-      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nSun, Oct 4·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Bears vs. New York Jets",
-      "date_text": "Sun, Oct 4·12pm·",
-      "raw_text": "Chicago Bears vs. New York Jets\nSun, Oct 4·12pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Bears vs Jets At The Bottle",
-      "date_text": "Sun, Oct 4·12pm·",
-      "raw_text": "Bears vs Jets At The Bottle\nSun, Oct 4·12pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jekyll & Hyde",
-      "date_text": "Sun, Oct 4·1pm·",
-      "raw_text": "Jekyll & Hyde\nSun, Oct 4·1pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Operation Mincemeat",
-      "date_text": "Sun, Oct 4·1pm·",
-      "raw_text": "Operation Mincemeat\nSun, Oct 4·1pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Play On!",
-      "date_text": "Sun, Oct 4·2pm·",
-      "raw_text": "Play On!\nSun, Oct 4·2pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Vape! The Grease Parody",
-      "date_text": "Sun, Oct 4·2:30pm·",
-      "raw_text": "Vape! The Grease Parody\nSun, Oct 4·2:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Parkinson's Foundation Fundraiser at Zanies",
-      "date_text": "Sun, Oct 4·4pm·",
-      "raw_text": "Parkinson's Foundation Fundraiser at Zanies\nSun, Oct 4·4pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Oktoberfest Nation Chicago | Fulton Market",
-      "date_text": "Sun, Oct 4·5pm·",
-      "raw_text": "Oktoberfest Nation Chicago | Fulton Market\nSun, Oct 4·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jack's Pumpkin Pop Up",
-      "date_text": "Sun, Oct 4·5pm·",
-      "raw_text": "Jack's Pumpkin Pop Up\nSun, Oct 4·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Bill Burr",
-      "date_text": "Sun, Oct 4·7pm·",
-      "raw_text": "Bill Burr\nSun, Oct 4·7pm·\nChicago\nInterested?"
+      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
+      "date_text": "Mon, Oct 5·12am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nMon, Oct 5·12am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JsDzXhOiQE2aWr0VBtWjSw.large.jpg",
+      "image_path": "chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
+      "image_download_status": "downloaded"
     },
     {
       "source": "visible_card",
       "title": "Haley Reinhart",
       "date_text": "Mon, Oct 5·12am·",
-      "raw_text": "Haley Reinhart\nMon, Oct 5·12am·\nChicago\nInterested?"
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/ca32a653895dbc6cb98be0d8.png",
+      "raw_text": "Haley Reinhart\nMon, Oct 5·12am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Y87SGEinNUuoRjmthHp9Bg.large.png",
+      "image_path": "chicagoEvents-images/ca32a653895dbc6cb98be0d8.png",
+      "image_download_status": "downloaded"
     },
     {
       "source": "visible_card",
-      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
-      "date_text": "Mon, Oct 5·12am·",
-      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nMon, Oct 5·12am·\nChicago\nInterested?"
+      "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
+      "date_text": "Mon, Oct 5·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nMon, Oct 5·11am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PSWt9MaGmUGxNmVf6j-e4g.large.jpg",
+      "image_path": "chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
+      "image_download_status": "downloaded"
     },
     {
       "source": "visible_card",
       "title": "Taste 222 Daily Happy Hour & Weekly Specials",
       "date_text": "Mon, Oct 5·3pm·",
-      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nMon, Oct 5·3pm·\nChicago\nInterested?"
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nMon, Oct 5·3pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LD8ToXioh0Oj7L3fo3QFdA.large.jpg",
+      "image_path": "chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
+      "image_download_status": "downloaded"
     },
     {
       "source": "visible_card",
       "title": "Osteria Gilberto Is Now Open in Lincoln Park",
       "date_text": "Mon, Oct 5·4pm·",
-      "raw_text": "Osteria Gilberto Is Now Open in Lincoln Park\nMon, Oct 5·4pm·\nChicago\nInterested?"
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/cc2e85bfff002a6758de8c82.jpg",
+      "raw_text": "Osteria Gilberto Is Now Open in Lincoln Park\nMon, Oct 5·4pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/apORXxiDUkuYZdBV9zVHLw.large.jpg",
+      "image_path": "chicagoEvents-images/cc2e85bfff002a6758de8c82.jpg",
+      "image_download_status": "downloaded"
     },
     {
       "source": "visible_card",
-      "title": "Youth Leadership and Career-Readiness Program in North Lawndale",
-      "date_text": "Mon, Oct 5·6pm·",
-      "raw_text": "Youth Leadership and Career-Readiness Program in North Lawndale\nMon, Oct 5·6pm·\nChicago\nInterested?"
+      "title": "Jack's Pumpkin Pop Up",
+      "date_text": "Mon, Oct 5·5pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/63a7b3f5f6e957ca895dac36.png",
+      "raw_text": "Jack's Pumpkin Pop Up\nMon, Oct 5·5pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NeGbprUVaE-YnTiEKX-DAw.large.png",
+      "image_path": "chicagoEvents-images/63a7b3f5f6e957ca895dac36.png",
+      "image_download_status": "downloaded"
     },
     {
       "source": "visible_card",
       "title": "Bring Your Own Game Night!",
       "date_text": "Mon, Oct 5·6pm·",
-      "raw_text": "Bring Your Own Game Night!\nMon, Oct 5·6pm·\nChicago\nInterested?"
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/078048caaf8e27102027797e.png",
+      "raw_text": "Bring Your Own Game Night!\nMon, Oct 5·6pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hoVCv7BBV0mqPzveIcQqNQ.large.png",
+      "image_path": "chicagoEvents-images/078048caaf8e27102027797e.png",
+      "image_download_status": "downloaded"
+    },
+    {
+      "source": "visible_card",
+      "title": "Youth Leadership and Career-Readiness Program in North Lawndale",
+      "date_text": "Mon, Oct 5·6pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/4189645859329c36483cfe41.jpg",
+      "raw_text": "Youth Leadership and Career-Readiness Program in North Lawndale\nMon, Oct 5·6pm·\nChicago\nInterested?",
+      "image_source_url": "https://us1-photo.nextdoor.com/post_photos/b6/53/b653fa7a461e87c09070f75dc6c71ebd.png?request_version=v2&quality=80&output_type=jpeg&sizing=linear&clamp=large",
+      "image_path": "chicagoEvents-images/4189645859329c36483cfe41.jpg",
+      "image_download_status": "downloaded"
     },
     {
       "source": "visible_card",
       "title": "Quilling the Stars Workshop",
       "date_text": "Mon, Oct 5·6pm·",
-      "raw_text": "Quilling the Stars Workshop\nMon, Oct 5·6pm·\nChicago\nInterested?"
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/ea1aa83faef8045531868f9e.jpg",
+      "raw_text": "Quilling the Stars Workshop\nMon, Oct 5·6pm·\nChicago\nInterested?",
+      "image_source_url": "https://chicagolocalevents.com/static/fallback/arts-and-culture.jpg",
+      "image_path": "chicagoEvents-images/ea1aa83faef8045531868f9e.jpg",
+      "image_download_status": "downloaded"
     },
     {
       "source": "visible_card",
       "title": "bunii - BUNIIVERSITY TOUR with Crayon presented by Thalia Hall and Kickstand Productions",
       "date_text": "Mon, Oct 5·6:30pm·",
-      "raw_text": "bunii - BUNIIVERSITY TOUR with Crayon presented by Thalia Hall and Kickstand Productions\nMon, Oct 5·6:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Anywho Whooptie Woo, Hosted by Natalia Sovero, Craig Bruns, Grant Bruns",
-      "date_text": "Tue, Oct 6·12am·",
-      "raw_text": "Anywho Whooptie Woo, Hosted by Natalia Sovero, Craig Bruns, Grant Bruns\nTue, Oct 6·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Istock Family Look-In Lab",
-      "date_text": "Tue, Oct 6·10am·",
-      "raw_text": "Istock Family Look-In Lab\nTue, Oct 6·10am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Millennium Park Outdoor Public Art Walking Tour",
-      "date_text": "Tue, Oct 6·12pm·",
-      "raw_text": "Millennium Park Outdoor Public Art Walking Tour\nTue, Oct 6·12pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "A Christmas Carol",
-      "date_text": "Tue, Oct 6·2pm·",
-      "raw_text": "A Christmas Carol\nTue, Oct 6·2pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Gilt Bar Happy Hour",
-      "date_text": "Tue, Oct 6·4pm·",
-      "raw_text": "Gilt Bar Happy Hour\nTue, Oct 6·4pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Bub City Happy Hour",
-      "date_text": "Tue, Oct 6·4pm·",
-      "raw_text": "Bub City Happy Hour\nTue, Oct 6·4pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Aba's Happy Hour",
-      "date_text": "Tue, Oct 6·4pm·",
-      "raw_text": "Aba's Happy Hour\nTue, Oct 6·4pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Marketing Disrupted - The New Marketing Funnel",
-      "date_text": "Tue, Oct 6·4:30pm·",
-      "raw_text": "Marketing Disrupted - The New Marketing Funnel\nTue, Oct 6·4:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Good Luck, Babe",
-      "date_text": "Tue, Oct 6·5pm·",
-      "raw_text": "Good Luck, Babe\nTue, Oct 6·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Neighbor Night",
-      "date_text": "Tue, Oct 6·6pm·",
-      "raw_text": "Neighbor Night\nTue, Oct 6·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Blackhawks vs St. Louis Blues",
-      "date_text": "Tue, Oct 6·7pm·",
-      "raw_text": "Chicago Blackhawks vs St. Louis Blues\nTue, Oct 6·7pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Mind Enterprises Concert",
-      "date_text": "Tue, Oct 6·8pm·",
-      "raw_text": "Mind Enterprises Concert\nTue, Oct 6·8pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Mind Enterprises",
-      "date_text": "Tue, Oct 6·8pm·",
-      "raw_text": "Mind Enterprises\nTue, Oct 6·8pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "WTTW First Wednesdays at The Field Museum",
-      "date_text": "Wed, Oct 7·9am·",
-      "raw_text": "WTTW First Wednesdays at The Field Museum\nWed, Oct 7·9am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jet's Pizza Partners with the Alzheimer's Association",
-      "date_text": "Wed, Oct 7·10am·",
-      "raw_text": "Jet's Pizza Partners with the Alzheimer's Association\nWed, Oct 7·10am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "RiverWorks",
-      "date_text": "Wed, Oct 7·10am·",
-      "raw_text": "RiverWorks\nWed, Oct 7·10am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Pumpkin Painting + Dining Experience",
-      "date_text": "Wed, Oct 7·11am·",
-      "raw_text": "Pumpkin Painting + Dining Experience\nWed, Oct 7·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "THE CUBE Offers a New Option for Group Gatherings",
-      "date_text": "Wed, Oct 7·3pm·",
-      "raw_text": "THE CUBE Offers a New Option for Group Gatherings\nWed, Oct 7·3pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "LEGO® and Games Club",
-      "date_text": "Wed, Oct 7·3:30pm·",
-      "raw_text": "LEGO® and Games Club\nWed, Oct 7·3:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Grazing Hour",
-      "date_text": "Wed, Oct 7·4pm·",
-      "raw_text": "Grazing Hour\nWed, Oct 7·4pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Art Fair",
-      "date_text": "Wed, Oct 7·5pm·",
-      "raw_text": "Chicago Art Fair\nWed, Oct 7·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Networking Extravaganza",
-      "date_text": "Wed, Oct 7·5:30pm·",
-      "raw_text": "Networking Extravaganza\nWed, Oct 7·5:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "An Evening of Music with Son Monarcas",
-      "date_text": "Wed, Oct 7·6pm·",
-      "raw_text": "An Evening of Music with Son Monarcas\nWed, Oct 7·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "!Bracket at the Emporium",
-      "date_text": "Wed, Oct 7·6pm·",
-      "raw_text": "!Bracket at the Emporium\nWed, Oct 7·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "The Residents' - Eskimo Live",
-      "date_text": "Wed, Oct 7·6:30pm·",
-      "raw_text": "The Residents' - Eskimo Live\nWed, Oct 7·6:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Epik High",
-      "date_text": "Wed, Oct 7·7pm·",
-      "raw_text": "Epik High\nWed, Oct 7·7pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Elizabeth Nichols",
-      "date_text": "Wed, Oct 7·7pm·",
-      "raw_text": "Elizabeth Nichols\nWed, Oct 7·7pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Wesley Joseph",
-      "date_text": "Wed, Oct 7·8pm·",
-      "raw_text": "Wesley Joseph\nWed, Oct 7·8pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Zicam and Simply Saline Stay Prepared Pop - Up",
-      "date_text": "Thu, Oct 8·9am·",
-      "raw_text": "Zicam and Simply Saline Stay Prepared Pop - Up\nThu, Oct 8·9am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Micheal O'Siadhail - Poetry Reading with Q&A",
-      "date_text": "Thu, Oct 8·11am·",
-      "raw_text": "Micheal O'Siadhail - Poetry Reading with Q&A\nThu, Oct 8·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Tina Youkhana",
-      "date_text": "Thu, Oct 8·5pm·",
-      "raw_text": "Tina Youkhana\nThu, Oct 8·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Omar Coleman Blues Band/Funky Mojo Daddy Blues Band",
-      "date_text": "Thu, Oct 8·6pm·",
-      "raw_text": "Omar Coleman Blues Band/Funky Mojo Daddy Blues Band\nThu, Oct 8·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Client Appreciation Experience",
-      "date_text": "Thu, Oct 8·6pm·",
-      "raw_text": "Client Appreciation Experience\nThu, Oct 8·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "IWC Fall Harvest",
-      "date_text": "Thu, Oct 8·6pm·",
-      "raw_text": "IWC Fall Harvest\nThu, Oct 8·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Renny Conti, Split Second Tour James Eichman",
-      "date_text": "Fri, Oct 9·12am·",
-      "raw_text": "Renny Conti, Split Second Tour James Eichman\nFri, Oct 9·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Estee Couture 2027 Trunk Show",
-      "date_text": "Fri, Oct 9·12am·",
-      "raw_text": "Estee Couture 2027 Trunk Show\nFri, Oct 9·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Deerhoof , SOLAR FAN CLUB TOUR 2026 Ira Glass , Navaja",
-      "date_text": "Fri, Oct 9·12am·",
-      "raw_text": "Deerhoof , SOLAR FAN CLUB TOUR 2026 Ira Glass , Navaja\nFri, Oct 9·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Behind the Scenes at the Field Museum (Chicago)",
-      "date_text": "Fri, Oct 9·7am·",
-      "raw_text": "Behind the Scenes at the Field Museum (Chicago)\nFri, Oct 9·7am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "St. Jude Heroes-Bank of America Chicago Marathon Expo",
-      "date_text": "Fri, Oct 9·8:30am·",
-      "raw_text": "St. Jude Heroes-Bank of America Chicago Marathon Expo\nFri, Oct 9·8:30am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Kintsugi Workshop: Repair and Reconnect",
-      "date_text": "Fri, Oct 9·10:30am·",
-      "raw_text": "Kintsugi Workshop: Repair and Reconnect\nFri, Oct 9·10:30am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Emma Stebbins: Carving out History at Driehaus Museum",
-      "date_text": "Fri, Oct 9·11am·",
-      "raw_text": "Emma Stebbins: Carving out History at Driehaus Museum\nFri, Oct 9·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "NFL Game Day Deals at Mac's Wood Grilled",
-      "date_text": "Fri, Oct 9·11am·",
-      "raw_text": "NFL Game Day Deals at Mac's Wood Grilled\nFri, Oct 9·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "State and Lake Chicago Tavern Marathon Meals",
-      "date_text": "Fri, Oct 9·12pm·",
-      "raw_text": "State and Lake Chicago Tavern Marathon Meals\nFri, Oct 9·12pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Marathon meals at FireLake Grill House & Cocktail Bar",
-      "date_text": "Fri, Oct 9·12pm·",
-      "raw_text": "Marathon meals at FireLake Grill House & Cocktail Bar\nFri, Oct 9·12pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "ROBBY HOFFMAN: LIVE ON TOUR",
-      "date_text": "Fri, Oct 9·6pm·",
-      "raw_text": "ROBBY HOFFMAN: LIVE ON TOUR\nFri, Oct 9·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "The Heart of the Story at Douglass",
-      "date_text": "Fri, Oct 9·6pm·",
-      "raw_text": "The Heart of the Story at Douglass\nFri, Oct 9·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Queer Nerd Meetup at Goblin Market",
-      "date_text": "Fri, Oct 9·6pm·",
-      "raw_text": "Queer Nerd Meetup at Goblin Market\nFri, Oct 9·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Movie Adaptions: What Works and What Doesn't",
-      "date_text": "Fri, Oct 9·6pm·",
-      "raw_text": "Movie Adaptions: What Works and What Doesn't\nFri, Oct 9·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jerry Seinfeld Live!",
-      "date_text": "Fri, Oct 9·7pm·",
-      "raw_text": "Jerry Seinfeld Live!\nFri, Oct 9·7pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "National Park After Dark: Your Neck of the Woods Tour",
-      "date_text": "Fri, Oct 9·7:30pm·",
-      "raw_text": "National Park After Dark: Your Neck of the Woods Tour\nFri, Oct 9·7:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Mäkelä, Petrushka & Belshazzar’s Feast",
-      "date_text": "Fri, Oct 9·7:30pm·",
-      "raw_text": "Mäkelä, Petrushka & Belshazzar’s Feast\nFri, Oct 9·7:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Dana and Alden , Papa's Boat Tour",
-      "date_text": "Sat, Oct 10·12am·",
-      "raw_text": "Dana and Alden , Papa's Boat Tour\nSat, Oct 10·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "The Bright Light Social Hour",
-      "date_text": "Sat, Oct 10·12am·",
-      "raw_text": "The Bright Light Social Hour\nSat, Oct 10·12am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "STORM Chicago Pop-Up",
-      "date_text": "Sat, Oct 10·9am·",
-      "raw_text": "STORM Chicago Pop-Up\nSat, Oct 10·9am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Lincoln Brunch Fest",
-      "date_text": "Sat, Oct 10·10am·",
-      "raw_text": "Lincoln Brunch Fest\nSat, Oct 10·10am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Mini Zoom Room",
-      "date_text": "Sat, Oct 10·10am·",
-      "raw_text": "Mini Zoom Room\nSat, Oct 10·10am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Lincoln Park Wine Fest",
-      "date_text": "Sat, Oct 10·11am·",
-      "raw_text": "Lincoln Park Wine Fest\nSat, Oct 10·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "TenderFest 2026",
-      "date_text": "Sat, Oct 10·11am·",
-      "raw_text": "TenderFest 2026\nSat, Oct 10·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "University of Southern Indiana Women's Swimming & Diving vs University of Northern Iowa",
-      "date_text": "Sat, Oct 10·11am·",
-      "raw_text": "University of Southern Indiana Women's Swimming & Diving vs University of Northern Iowa\nSat, Oct 10·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Ceramics Crawl",
-      "date_text": "Sat, Oct 10·11am·",
-      "raw_text": "Chicago Ceramics Crawl\nSat, Oct 10·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "If You Give a Mouse a Cookie",
-      "date_text": "Sat, Oct 10·11am·",
-      "raw_text": "If You Give a Mouse a Cookie\nSat, Oct 10·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Before Midnight - A Cinderella Tea Experience",
-      "date_text": "Sat, Oct 10·11am·",
-      "raw_text": "Before Midnight - A Cinderella Tea Experience\nSat, Oct 10·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Marathon Menu at Michael Jordan's Steak House",
-      "date_text": "Sat, Oct 10·11am·",
-      "raw_text": "Chicago Marathon Menu at Michael Jordan's Steak House\nSat, Oct 10·11am·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "T.3: The Fifth Season Tour - Brunch",
-      "date_text": "Sat, Oct 10·12pm·",
-      "raw_text": "T.3: The Fifth Season Tour - Brunch\nSat, Oct 10·12pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Saltbox Chicago Marathon Sign-Making Event at NOMAD Chicago",
-      "date_text": "Sat, Oct 10·12pm·",
-      "raw_text": "Saltbox Chicago Marathon Sign-Making Event at NOMAD Chicago\nSat, Oct 10·12pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Spritz Fest at the Godfrey",
-      "date_text": "Sat, Oct 10·1pm·",
-      "raw_text": "Spritz Fest at the Godfrey\nSat, Oct 10·1pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Steel vs. Muskegon Lumberjacks",
-      "date_text": "Sat, Oct 10·3pm·",
-      "raw_text": "Chicago Steel vs. Muskegon Lumberjacks\nSat, Oct 10·3pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Golden Boy Promotions Pres: Schofield vs Bahdi",
-      "date_text": "Sat, Oct 10·3:15pm·",
-      "raw_text": "Golden Boy Promotions Pres: Schofield vs Bahdi\nSat, Oct 10·3:15pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Fire FC vs. New York City FC",
-      "date_text": "Sat, Oct 10·3:30pm·",
-      "raw_text": "Chicago Fire FC vs. New York City FC\nSat, Oct 10·3:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Next Showcase presents Mark Hubbard's 60th Birthday Celebration",
-      "date_text": "Sat, Oct 10·5pm·",
-      "raw_text": "Next Showcase presents Mark Hubbard's 60th Birthday Celebration\nSat, Oct 10·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Depaul Blue Demons Womens Volleyball w/ Georgetown Hoyas Womens Volleyball",
-      "date_text": "Sat, Oct 10·5pm·",
-      "raw_text": "Depaul Blue Demons Womens Volleyball w/ Georgetown Hoyas Womens Volleyball\nSat, Oct 10·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Hunter Hill (an evening of stand up comedy)",
-      "date_text": "Sat, Oct 10·6pm·",
-      "raw_text": "Hunter Hill (an evening of stand up comedy)\nSat, Oct 10·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Blackhawks vs. Carolina Hurricanes",
-      "date_text": "Sat, Oct 10·6pm·",
-      "raw_text": "Chicago Blackhawks vs. Carolina Hurricanes\nSat, Oct 10·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "9th Annual Cocktails for the Cure",
-      "date_text": "Sat, Oct 10·6pm·",
-      "raw_text": "9th Annual Cocktails for the Cure\nSat, Oct 10·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jordan Jensen",
-      "date_text": "Sat, Oct 10·6:30pm·",
-      "raw_text": "Jordan Jensen\nSat, Oct 10·6:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "ChiTown Drive-In Presents - Jurassic Park",
-      "date_text": "Sat, Oct 10·6:30pm·",
-      "raw_text": "ChiTown Drive-In Presents - Jurassic Park\nSat, Oct 10·6:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Don Giovanni",
-      "date_text": "Sat, Oct 10·7:30pm·",
-      "raw_text": "Don Giovanni\nSat, Oct 10·7:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Moving sale open house",
-      "date_text": "Sun, Oct 11·1pm·",
-      "raw_text": "Moving sale open house\nSun, Oct 11·1pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "(FREE) WDCB 90.9FM feat. George Fludas & Trio Nexus in a Centennial Celebration of Ray Brown",
-      "date_text": "Tue, Oct 13·8pm·",
-      "raw_text": "(FREE) WDCB 90.9FM feat. George Fludas & Trio Nexus in a Centennial Celebration of Ray Brown\nTue, Oct 13·8pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jazz Links Jam Session - ages 9 - 19 (FREE)",
-      "date_text": "Wed, Oct 14·5pm·",
-      "raw_text": "Jazz Links Jam Session - ages 9 - 19 (FREE)\nWed, Oct 14·5pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "World Fashion Festival",
-      "date_text": "Thu, Oct 15·12:15am·",
-      "raw_text": "World Fashion Festival\nThu, Oct 15·12:15am·\nChicago, IL\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "World Fashion Festival Chicago",
-      "date_text": "Thu, Oct 15·5:30pm·",
-      "raw_text": "World Fashion Festival Chicago\nThu, Oct 15·5:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "St. James Lutheran - Pet Blessing Event",
-      "date_text": "Sun, Oct 18·1pm·",
-      "raw_text": "St. James Lutheran - Pet Blessing Event\nSun, Oct 18·1pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "NEIU-Jacob H. Carruthers Center Open House",
-      "date_text": "Tue, Oct 20·4:30pm·",
-      "raw_text": "NEIU-Jacob H. Carruthers Center Open House\nTue, Oct 20·4:30pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "The 2026 Pegasus Awards Reading (FREE)",
-      "date_text": "Fri, Oct 23·6pm·",
-      "raw_text": "The 2026 Pegasus Awards Reading (FREE)\nFri, Oct 23·6pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Realignmed's Fall Beauty Showcase!",
-      "date_text": "Thu, Nov 12·3pm·",
-      "raw_text": "Realignmed's Fall Beauty Showcase!\nThu, Nov 12·3pm·\nChicago\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Thanksgiving Parade 2026",
-      "date_text": "Thu, Nov 26·5am·",
-      "raw_text": "Chicago Thanksgiving Parade 2026\nThu, Nov 26·5am·\nChicago, IL\nInterested?"
-    },
-    {
-      "source": "visible_card",
-      "title": "04/29/27 - 05/02/27 Travel to Obama Presidential Center, Chicago, Ill Fundraising Trip",
-      "date_text": "Thu, Apr 29·2pm·",
-      "raw_text": "04/29/27 - 05/02/27 Travel to Obama Presidential Center, Chicago, Ill Fundraising Trip\nThu, Apr 29·2pm·\nChicago, IL\nInterested?"
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/97fbee91cc70c8dd8cc5e160.png",
+      "raw_text": "bunii - BUNIIVERSITY TOUR with Crayon presented by Thalia Hall and Kickstand Productions\nMon, Oct 5·6:30pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/C6P6iHrZhUiiiHm36CFIbg.large.png",
+      "image_path": "chicagoEvents-images/97fbee91cc70c8dd8cc5e160.png",
+      "image_download_status": "downloaded"
     }
   ]
 }
