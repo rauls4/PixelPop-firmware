@@ -1,25 +1,13 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-07T01:56:00.018525+00:00",
+  "extracted_at": "2026-10-07T12:00:27.636441+00:00",
   "event_count": 40,
   "duplicates_removed": 49,
-  "image_count": 38,
+  "image_count": 39,
   "max_events": 40,
   "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
-      "date_text": "Wed, Oct 7·12am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
-      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nWed, Oct 7·12am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JsDzXhOiQE2aWr0VBtWjSw.large.jpg",
-      "image_path": "chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/4cbd6ccafda13fb89627cc08-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/4cbd6ccafda13fb89627cc08-32x64-pan.jpg"
-    },
     {
       "source": "visible_card",
       "title": "WTTW First Wednesdays at The Field Museum",
@@ -319,6 +307,42 @@
     },
     {
       "source": "visible_card",
+      "title": "Gold Coast Piano Bar",
+      "date_text": "Wed, Oct 7·8:30pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/63a56d75d932c6e55601808e.jpg",
+      "raw_text": "Gold Coast Piano Bar\nWed, Oct 7·8:30pm·\nChicago\nInterested?",
+      "image_source_url": "https://us1-photo.nextdoor.com/post_photos/42/23/4223b112b75614be6de5a8d49a5157f1.jpeg?request_version=v2&output_type=jpeg&sizing=linear&clamp=large",
+      "image_path": "chicagoEvents-images/63a56d75d932c6e55601808e.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/63a56d75d932c6e55601808e-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/63a56d75d932c6e55601808e-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Gold Coast iconic piano bar!",
+      "date_text": "Wed, Oct 7·8:30pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/4c1436fe3205e24e56f9e83a.jpg",
+      "raw_text": "Gold Coast iconic piano bar!\nWed, Oct 7·8:30pm·\nChicago\nInterested?",
+      "image_source_url": "https://us1-photo.nextdoor.com/post_photos/c0/9e/c09e6d570e9ed9f660c44259a434eff1.jpeg?request_version=v2&output_type=jpeg&sizing=linear&clamp=large",
+      "image_path": "chicagoEvents-images/4c1436fe3205e24e56f9e83a.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/4c1436fe3205e24e56f9e83a-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/4c1436fe3205e24e56f9e83a-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Carole Feuerman's Monuments of Stillness along Magnificent Mile",
+      "date_text": "Thu, Oct 8·12am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
+      "raw_text": "Carole Feuerman's Monuments of Stillness along Magnificent Mile\nThu, Oct 8·12am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JsDzXhOiQE2aWr0VBtWjSw.large.jpg",
+      "image_path": "chicagoEvents-images/4cbd6ccafda13fb89627cc08.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/4cbd6ccafda13fb89627cc08-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/4cbd6ccafda13fb89627cc08-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
       "title": "Zicam and Simply Saline Stay Prepared Pop - Up",
       "date_text": "Thu, Oct 8·9am·",
       "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/3f6f663753edb3b36ec1e7ce.jpg",
@@ -460,27 +484,6 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/4b99c6524f76e9007b4936f8-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/4b99c6524f76e9007b4936f8-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Kintsugi Workshop: Repair and Reconnect",
-      "date_text": "Fri, Oct 9·10:30am·",
-      "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/viu2LLlu2U6iA6P5zgT3rA.large.jpg",
-      "raw_text": "Kintsugi Workshop: Repair and Reconnect\nFri, Oct 9·10:30am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/viu2LLlu2U6iA6P5zgT3rA.large.jpg",
-      "image_download_status": "failed"
-    },
-    {
-      "source": "visible_card",
-      "title": "Emma Stebbins: Carving out History at Driehaus Museum",
-      "date_text": "Fri, Oct 9·11am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/c2ad4756585a56a453d3682e.jpg",
-      "raw_text": "Emma Stebbins: Carving out History at Driehaus Museum\nFri, Oct 9·11am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vocHlbMfmk6sTDKsmZQwEw.large.jpg",
-      "image_path": "chicagoEvents-images/c2ad4756585a56a453d3682e.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/c2ad4756585a56a453d3682e-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/c2ad4756585a56a453d3682e-32x64-pan.jpg"
     }
   ]
 }
