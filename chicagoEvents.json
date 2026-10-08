@@ -1,6 +1,6 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-08T12:00:29.231129+00:00",
+  "extracted_at": "2026-10-08T20:00:27.511917+00:00",
   "event_count": 40,
   "duplicates_removed": 47,
   "image_count": 39,
@@ -8,114 +8,6 @@
   "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Zicam and Simply Saline Stay Prepared Pop - Up",
-      "date_text": "Thu, Oct 8·9am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/3f6f663753edb3b36ec1e7ce.jpg",
-      "raw_text": "Zicam and Simply Saline Stay Prepared Pop - Up\nThu, Oct 8·9am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wEIyoQnmDky5FrZt_RSRNg.large.jpg",
-      "image_path": "chicagoEvents-images/3f6f663753edb3b36ec1e7ce.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/3f6f663753edb3b36ec1e7ce-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/3f6f663753edb3b36ec1e7ce-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jet's Pizza Partners with the Alzheimer's Association",
-      "date_text": "Thu, Oct 8·10am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/3dd2374e38b13181a8509467.jpg",
-      "raw_text": "Jet's Pizza Partners with the Alzheimer's Association\nThu, Oct 8·10am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_IbgEGpj6ke0WjeaBkdjBQ.large.jpg",
-      "image_path": "chicagoEvents-images/3dd2374e38b13181a8509467.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/3dd2374e38b13181a8509467-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/3dd2374e38b13181a8509467-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Pumpkin Painting + Dining Experience",
-      "date_text": "Thu, Oct 8·11am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/cb599e0cfa273912aa993dcc.png",
-      "raw_text": "Pumpkin Painting + Dining Experience\nThu, Oct 8·11am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/efdefcb8-2bbb-4ccb-9227-5496f34ee708.large.png",
-      "image_path": "chicagoEvents-images/cb599e0cfa273912aa993dcc.png",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/cb599e0cfa273912aa993dcc-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/cb599e0cfa273912aa993dcc-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Micheal O'Siadhail - Poetry Reading with Q&A",
-      "date_text": "Thu, Oct 8·11am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/72ead688adc5d9a96658ac80.jpg",
-      "raw_text": "Micheal O'Siadhail - Poetry Reading with Q&A\nThu, Oct 8·11am·\nChicago\nInterested?",
-      "image_source_url": "https://us1-photo.nextdoor.com/post_photos/c7/47/c747de61978a47e3ef14dd8563569dbd.jpeg?request_version=v2&output_type=jpeg&sizing=linear&clamp=large",
-      "image_path": "chicagoEvents-images/72ead688adc5d9a96658ac80.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/72ead688adc5d9a96658ac80-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/72ead688adc5d9a96658ac80-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Chicago Art Fair",
-      "date_text": "Thu, Oct 8·11am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/7b48ff5e23b7bf4570e0118e.jpg",
-      "raw_text": "Chicago Art Fair\nThu, Oct 8·11am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ti168Vfb6UO7otD0fRqNqg.large.jpg",
-      "image_path": "chicagoEvents-images/7b48ff5e23b7bf4570e0118e.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/7b48ff5e23b7bf4570e0118e-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/7b48ff5e23b7bf4570e0118e-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
-      "date_text": "Thu, Oct 8·11am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
-      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nThu, Oct 8·11am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PSWt9MaGmUGxNmVf6j-e4g.large.jpg",
-      "image_path": "chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/e7172a7c25c70450f505482c-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/e7172a7c25c70450f505482c-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Serial Killer: The Exhibition",
-      "date_text": "Thu, Oct 8·11am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/b5dfa600a9637b36990cbffe.jpg",
-      "raw_text": "Serial Killer: The Exhibition\nThu, Oct 8·11am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4V222wG9506w3wmcAtz5gQ.large.jpg",
-      "image_path": "chicagoEvents-images/b5dfa600a9637b36990cbffe.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/b5dfa600a9637b36990cbffe-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/b5dfa600a9637b36990cbffe-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Taste 222 Daily Happy Hour & Weekly Specials",
-      "date_text": "Thu, Oct 8·3pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
-      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nThu, Oct 8·3pm·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LD8ToXioh0Oj7L3fo3QFdA.large.jpg",
-      "image_path": "chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/67215857020c7aa2ee57090a-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/67215857020c7aa2ee57090a-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "THE CUBE Offers a New Option for Group Gatherings",
-      "date_text": "Thu, Oct 8·3pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/882994a7db054ade82dddbd1.jpg",
-      "raw_text": "THE CUBE Offers a New Option for Group Gatherings\nThu, Oct 8·3pm·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1m9KJC_maEWf_kBq-6QguQ.large.jpg",
-      "image_path": "chicagoEvents-images/882994a7db054ade82dddbd1.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/882994a7db054ade82dddbd1-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/882994a7db054ade82dddbd1-32x64-pan.jpg"
-    },
     {
       "source": "visible_card",
       "title": "Osteria Gilberto Is Now Open in Lincoln Park",
@@ -274,12 +166,36 @@
     },
     {
       "source": "visible_card",
+      "title": "Jet's Pizza Partners with the Alzheimer's Association",
+      "date_text": "Fri, Oct 9·10am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/3dd2374e38b13181a8509467.jpg",
+      "raw_text": "Jet's Pizza Partners with the Alzheimer's Association\nFri, Oct 9·10am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_IbgEGpj6ke0WjeaBkdjBQ.large.jpg",
+      "image_path": "chicagoEvents-images/3dd2374e38b13181a8509467.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/3dd2374e38b13181a8509467-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/3dd2374e38b13181a8509467-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
       "title": "Kintsugi Workshop: Repair and Reconnect",
       "date_text": "Fri, Oct 9·10:30am·",
       "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/viu2LLlu2U6iA6P5zgT3rA.large.jpg",
       "raw_text": "Kintsugi Workshop: Repair and Reconnect\nFri, Oct 9·10:30am·\nChicago\nInterested?",
       "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/viu2LLlu2U6iA6P5zgT3rA.large.jpg",
       "image_download_status": "failed"
+    },
+    {
+      "source": "visible_card",
+      "title": "Serial Killer: The Exhibition",
+      "date_text": "Fri, Oct 9·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/b5dfa600a9637b36990cbffe.jpg",
+      "raw_text": "Serial Killer: The Exhibition\nFri, Oct 9·11am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4V222wG9506w3wmcAtz5gQ.large.jpg",
+      "image_path": "chicagoEvents-images/b5dfa600a9637b36990cbffe.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/b5dfa600a9637b36990cbffe-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/b5dfa600a9637b36990cbffe-32x64-pan.jpg"
     },
     {
       "source": "visible_card",
@@ -307,6 +223,54 @@
     },
     {
       "source": "visible_card",
+      "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
+      "date_text": "Fri, Oct 9·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nFri, Oct 9·11am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PSWt9MaGmUGxNmVf6j-e4g.large.jpg",
+      "image_path": "chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/e7172a7c25c70450f505482c-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/e7172a7c25c70450f505482c-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Chicago Art Fair",
+      "date_text": "Fri, Oct 9·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/7b48ff5e23b7bf4570e0118e.jpg",
+      "raw_text": "Chicago Art Fair\nFri, Oct 9·11am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ti168Vfb6UO7otD0fRqNqg.large.jpg",
+      "image_path": "chicagoEvents-images/7b48ff5e23b7bf4570e0118e.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/7b48ff5e23b7bf4570e0118e-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/7b48ff5e23b7bf4570e0118e-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Conversational French",
+      "date_text": "Fri, Oct 9·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/2c330dc10b9bb69525e4bd76.jpg",
+      "raw_text": "Conversational French\nFri, Oct 9·11am·\nChicago\nInterested?",
+      "image_source_url": "https://live.staticflickr.com/2853/33700744564_380cceb206_b.jpg",
+      "image_path": "chicagoEvents-images/2c330dc10b9bb69525e4bd76.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/2c330dc10b9bb69525e4bd76-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/2c330dc10b9bb69525e4bd76-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Pumpkin Painting + Dining Experience",
+      "date_text": "Fri, Oct 9·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/cb599e0cfa273912aa993dcc.png",
+      "raw_text": "Pumpkin Painting + Dining Experience\nFri, Oct 9·11am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/efdefcb8-2bbb-4ccb-9227-5496f34ee708.large.png",
+      "image_path": "chicagoEvents-images/cb599e0cfa273912aa993dcc.png",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/cb599e0cfa273912aa993dcc-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/cb599e0cfa273912aa993dcc-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
       "title": "State and Lake Chicago Tavern Marathon Meals",
       "date_text": "Fri, Oct 9·12pm·",
       "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/c71d43cd3eda4a9cbaecf323.jpg",
@@ -328,6 +292,30 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/0a18e7622499bb49ec781f0e-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/0a18e7622499bb49ec781f0e-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Taste 222 Daily Happy Hour & Weekly Specials",
+      "date_text": "Fri, Oct 9·3pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nFri, Oct 9·3pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LD8ToXioh0Oj7L3fo3QFdA.large.jpg",
+      "image_path": "chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/67215857020c7aa2ee57090a-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/67215857020c7aa2ee57090a-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "THE CUBE Offers a New Option for Group Gatherings",
+      "date_text": "Fri, Oct 9·3pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/882994a7db054ade82dddbd1.jpg",
+      "raw_text": "THE CUBE Offers a New Option for Group Gatherings\nFri, Oct 9·3pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1m9KJC_maEWf_kBq-6QguQ.large.jpg",
+      "image_path": "chicagoEvents-images/882994a7db054ade82dddbd1.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/882994a7db054ade82dddbd1-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/882994a7db054ade82dddbd1-32x64-pan.jpg"
     },
     {
       "source": "visible_card",
@@ -484,6 +472,18 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/6f3bdffab2287893c0a0246b-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/6f3bdffab2287893c0a0246b-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Chicago Ceramics Crawl",
+      "date_text": "Sat, Oct 10·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/2fca9ee07d245ce072d1c2af.jpg",
+      "raw_text": "Chicago Ceramics Crawl\nSat, Oct 10·11am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/q5-FhkYB-Ei8A3lLYpWkxw.large.jpg",
+      "image_path": "chicagoEvents-images/2fca9ee07d245ce072d1c2af.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/2fca9ee07d245ce072d1c2af-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/2fca9ee07d245ce072d1c2af-32x64-pan.jpg"
     }
   ]
 }
