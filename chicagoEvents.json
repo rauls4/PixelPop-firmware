@@ -1,6 +1,6 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-11T12:00:31.190479+00:00",
+  "extracted_at": "2026-10-11T13:13:31.607817+00:00",
   "event_count": 40,
   "duplicates_removed": 47,
   "image_count": 38,
@@ -8,18 +8,6 @@
   "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Bank of America Chicago Marathon",
-      "date_text": "Sun, Oct 11·7:30am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/8d3a66473b33178b71ac5f1e.jpg",
-      "raw_text": "Bank of America Chicago Marathon\nSun, Oct 11·7:30am·\nChicago\nInterested?",
-      "image_source_url": "https://stumblday.com/events/bank-of-america-chicago-marathon-grant-park-2026-10-11/share.jpg",
-      "image_path": "chicagoEvents-images/8d3a66473b33178b71ac5f1e.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/8d3a66473b33178b71ac5f1e-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/8d3a66473b33178b71ac5f1e-32x64-pan.jpg"
-    },
     {
       "source": "visible_card",
       "title": "Jet's Pizza Partners with the Alzheimer's Association",
@@ -478,6 +466,18 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/b5a4fa993959267eea6b56d6-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/b5a4fa993959267eea6b56d6-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Kanan Gill: Not This Again",
+      "date_text": "Sun, Oct 11·7pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/9ad6b942acd2323624b1cf2c.png",
+      "raw_text": "Kanan Gill: Not This Again\nSun, Oct 11·7pm·\nChicago\nInterested?",
+      "image_source_url": "https://stumblday.com/events/kanan-gill-not-this-again-park-west-2026-10-11/flyer.png?w=1080&v=b459a36f",
+      "image_path": "chicagoEvents-images/9ad6b942acd2323624b1cf2c.png",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/9ad6b942acd2323624b1cf2c-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/9ad6b942acd2323624b1cf2c-32x64-pan.jpg"
     }
   ]
 }
