@@ -5,7 +5,7 @@
 **Branch:** `main`. HEAD moves several times a day (the Nextdoor exporter on Mini.local commits the feed at 07:00 and 15:00 CT), so always `git pull` first.
 
 ## Rules specific to this repo
-- Do **not** publish OTA (`PixelPop.ino.bin`) unless Raul asks. Never publish 1.1.170–1.1.174 or 1.1.191–1.1.193 without Raul. Public OTA is 1.1.190 as of 2026-10-07.
+- Do **not** publish OTA (`PixelPop.ino.bin`) unless Raul asks. Never publish 1.1.170–1.1.174 or 1.1.191–1.1.193 without Raul. Public OTA is 1.1.280 as of 2026-10-14 (PixelPop phase1 3cbdaa9, env pixelpop_cloud, sha256 d82c3b71…28f8; tested 1.1.190 → 1.1.280 on -raul). Previous pin 1.1.190 (sha256 120e3fc8…0af5) is in git history before 6aca173 for rollback.
 - The feed is written by the exporter (`tools/nextdoor-container` in rauls4/PixelPop, deployed in `/Users/raul/nextdoor-container` on Mini.local). Don't hand-edit it.
 - Boards fetch via raw.githubusercontent.com with a jsDelivr fallback.
 
