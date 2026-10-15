@@ -1,6 +1,6 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-15T20:00:26.642240+00:00",
+  "extracted_at": "2026-10-15T21:49:52.957831+00:00",
   "event_count": 40,
   "duplicates_removed": 46,
   "image_count": 38,
@@ -8,18 +8,6 @@
   "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Osteria Gilberto Is Now Open in Lincoln Park",
-      "date_text": "Thu, Oct 15·4pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/cc2e85bfff002a6758de8c82.jpg",
-      "raw_text": "Osteria Gilberto Is Now Open in Lincoln Park\nThu, Oct 15·4pm·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/apORXxiDUkuYZdBV9zVHLw.large.jpg",
-      "image_path": "chicagoEvents-images/cc2e85bfff002a6758de8c82.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/cc2e85bfff002a6758de8c82-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/cc2e85bfff002a6758de8c82-32x64-pan.jpg"
-    },
     {
       "source": "visible_card",
       "title": "Oktoberfest Nation Chicago | Fulton Market",
@@ -457,6 +445,18 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/882994a7db054ade82dddbd1-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/882994a7db054ade82dddbd1-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Osteria Gilberto Is Now Open in Lincoln Park",
+      "date_text": "Fri, Oct 16·4pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/cc2e85bfff002a6758de8c82.jpg",
+      "raw_text": "Osteria Gilberto Is Now Open in Lincoln Park\nFri, Oct 16·4pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/apORXxiDUkuYZdBV9zVHLw.large.jpg",
+      "image_path": "chicagoEvents-images/cc2e85bfff002a6758de8c82.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/cc2e85bfff002a6758de8c82-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/cc2e85bfff002a6758de8c82-32x64-pan.jpg"
     },
     {
       "source": "visible_card",
