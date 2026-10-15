@@ -1,61 +1,13 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-15T21:49:52.957831+00:00",
+  "extracted_at": "2026-10-15T22:16:03.162475+00:00",
   "event_count": 40,
   "duplicates_removed": 46,
-  "image_count": 38,
+  "image_count": 36,
   "max_events": 40,
   "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Oktoberfest Nation Chicago | Fulton Market",
-      "date_text": "Thu, Oct 15·5pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/f4f38217f8077b9da8f16cfc.png",
-      "raw_text": "Oktoberfest Nation Chicago | Fulton Market\nThu, Oct 15·5pm·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cv7raKCWSUiCNd8ViTK6kA.large.png",
-      "image_path": "chicagoEvents-images/f4f38217f8077b9da8f16cfc.png",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/f4f38217f8077b9da8f16cfc-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/f4f38217f8077b9da8f16cfc-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "The Ladder Community Social",
-      "date_text": "Thu, Oct 15·5pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/587ba8852c549bdf1f7830d1.png",
-      "raw_text": "The Ladder Community Social\nThu, Oct 15·5pm·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Zo6bAE9pkkmeXmzq4hcj0g.large.png",
-      "image_path": "chicagoEvents-images/587ba8852c549bdf1f7830d1.png",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/587ba8852c549bdf1f7830d1-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/587ba8852c549bdf1f7830d1-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jack's Pumpkin Pop Up",
-      "date_text": "Thu, Oct 15·5pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/63a7b3f5f6e957ca895dac36.png",
-      "raw_text": "Jack's Pumpkin Pop Up\nThu, Oct 15·5pm·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NeGbprUVaE-YnTiEKX-DAw.large.png",
-      "image_path": "chicagoEvents-images/63a7b3f5f6e957ca895dac36.png",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/63a7b3f5f6e957ca895dac36-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/63a7b3f5f6e957ca895dac36-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Tiles, Tagays (Toasts), & Traditions",
-      "date_text": "Thu, Oct 15·5pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/c2ad4736584daab3dcaa313f.jpg",
-      "raw_text": "Tiles, Tagays (Toasts), & Traditions\nThu, Oct 15·5pm·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PtEUMCr6r0WEwvTQauWSVQ.large.jpg",
-      "image_path": "chicagoEvents-images/c2ad4736584daab3dcaa313f.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/c2ad4736584daab3dcaa313f-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/c2ad4736584daab3dcaa313f-32x64-pan.jpg"
-    },
     {
       "source": "visible_card",
       "title": "World Fashion Festival 2026",
@@ -390,13 +342,10 @@
       "source": "visible_card",
       "title": "Illinois Product Expo",
       "date_text": "Fri, Oct 16·12pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/e07515e751e38f0fd613cc4f.png",
+      "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Fma9Odbdy0KbnQwgE0mPqg.large.png",
       "raw_text": "Illinois Product Expo\nFri, Oct 16·12pm·\nChicago\nInterested?",
       "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Fma9Odbdy0KbnQwgE0mPqg.large.png",
-      "image_path": "chicagoEvents-images/e07515e751e38f0fd613cc4f.png",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/e07515e751e38f0fd613cc4f-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/e07515e751e38f0fd613cc4f-32x64-pan.jpg"
+      "image_download_status": "failed"
     },
     {
       "source": "visible_card",
@@ -460,6 +409,18 @@
     },
     {
       "source": "visible_card",
+      "title": "Oktoberfest Nation Chicago | Fulton Market",
+      "date_text": "Fri, Oct 16·5pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/f4f38217f8077b9da8f16cfc.png",
+      "raw_text": "Oktoberfest Nation Chicago | Fulton Market\nFri, Oct 16·5pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cv7raKCWSUiCNd8ViTK6kA.large.png",
+      "image_path": "chicagoEvents-images/f4f38217f8077b9da8f16cfc.png",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/f4f38217f8077b9da8f16cfc-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/f4f38217f8077b9da8f16cfc-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
       "title": "PFL Chicago",
       "date_text": "Fri, Oct 16·5pm·",
       "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/34f4b3aadc10298b8b1ed488.png",
@@ -474,13 +435,46 @@
       "source": "visible_card",
       "title": "Live Reading: “Cold Was the Ground”",
       "date_text": "Fri, Oct 16·6pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/74827dce886c523f3788b6e5.jpg",
+      "image": "https://us1-photo.nextdoor.com/post_photos/82/a3/82a3f4c6d6c1312d21e18e40a144909b.jpeg?request_version=v2&output_type=jpeg&sizing=linear&clamp=large",
       "raw_text": "Live Reading: “Cold Was the Ground”\nFri, Oct 16·6pm·\nChicago\nInterested?",
       "image_source_url": "https://us1-photo.nextdoor.com/post_photos/82/a3/82a3f4c6d6c1312d21e18e40a144909b.jpeg?request_version=v2&output_type=jpeg&sizing=linear&clamp=large",
-      "image_path": "chicagoEvents-images/74827dce886c523f3788b6e5.jpg",
+      "image_download_status": "failed"
+    },
+    {
+      "source": "visible_card",
+      "title": "Live Reading: \"Cold Was the Ground\"",
+      "date_text": "Fri, Oct 16·6pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/6b4e0bed1ee2b80e45a43240.jpg",
+      "raw_text": "Live Reading: \"Cold Was the Ground\"\nFri, Oct 16·6pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Q8WOmB9jcUyhXflOKrzogg.large.jpg",
+      "image_path": "chicagoEvents-images/6b4e0bed1ee2b80e45a43240.jpg",
       "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/74827dce886c523f3788b6e5-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/74827dce886c523f3788b6e5-32x64-pan.jpg"
+      "panel_image": "chicagoEvents-images/panel/6b4e0bed1ee2b80e45a43240-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/6b4e0bed1ee2b80e45a43240-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "ChiTown Drive-In Presents - Monsters, Inc.",
+      "date_text": "Fri, Oct 16·7pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/bb58478a1a3202e170a7c0ed.png",
+      "raw_text": "ChiTown Drive-In Presents - Monsters, Inc.\nFri, Oct 16·7pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fFlttJ3s4k24nhvfVp8JUw.large.png",
+      "image_path": "chicagoEvents-images/bb58478a1a3202e170a7c0ed.png",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/bb58478a1a3202e170a7c0ed-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/bb58478a1a3202e170a7c0ed-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Capacity X Hidden Ideas: Umru + EQ",
+      "date_text": "Fri, Oct 16·7pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/8cc1bb1b0cf7ea4d9195d903.png",
+      "raw_text": "Capacity X Hidden Ideas: Umru + EQ\nFri, Oct 16·7pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ccc0d4c2-c93a-43ff-82e3-32803d35c03d.large.png",
+      "image_path": "chicagoEvents-images/8cc1bb1b0cf7ea4d9195d903.png",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/8cc1bb1b0cf7ea4d9195d903-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/8cc1bb1b0cf7ea4d9195d903-32x64-pan.jpg"
     }
   ]
 }
