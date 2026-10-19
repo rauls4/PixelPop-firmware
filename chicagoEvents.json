@@ -1,6 +1,6 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-19T12:00:30.000266+00:00",
+  "extracted_at": "2026-10-19T20:00:26.196985+00:00",
   "event_count": 40,
   "duplicates_removed": 46,
   "image_count": 39,
@@ -8,114 +8,6 @@
   "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "title": "Beyond the Grid Fairmont Chicago's Art Series",
-      "date_text": "Mon, Oct 19·8am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/93aa3a00d68bf17b1a788807.jpg",
-      "raw_text": "Beyond the Grid Fairmont Chicago's Art Series\nMon, Oct 19·8am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-3-Qi0EYE0SvUjyQNQ6-mw.large.jpg",
-      "image_path": "chicagoEvents-images/93aa3a00d68bf17b1a788807.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/93aa3a00d68bf17b1a788807-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/93aa3a00d68bf17b1a788807-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Coworking for a Cure",
-      "date_text": "Mon, Oct 19·8:30am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/dfcc11466df34a12b554601b.png",
-      "raw_text": "Coworking for a Cure\nMon, Oct 19·8:30am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_kkbZIJM4UixYwAUdLhx5A.large.png",
-      "image_path": "chicagoEvents-images/dfcc11466df34a12b554601b.png",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/dfcc11466df34a12b554601b-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/dfcc11466df34a12b554601b-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Co-Working Mondays!",
-      "date_text": "Mon, Oct 19·10am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/0aefd1d62bcb889f45d4f271.png",
-      "raw_text": "Co-Working Mondays!\nMon, Oct 19·10am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/da65d06d-7dcc-441d-9865-246447d28c20.large.png",
-      "image_path": "chicagoEvents-images/0aefd1d62bcb889f45d4f271.png",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/0aefd1d62bcb889f45d4f271-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/0aefd1d62bcb889f45d4f271-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Mini Zoom Room",
-      "date_text": "Mon, Oct 19·10am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/bdc25ab695a0aa14a77d8df6.jpg",
-      "raw_text": "Mini Zoom Room\nMon, Oct 19·10am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3odQNri9tkSsndZmGnX2EA.large.jpg",
-      "image_path": "chicagoEvents-images/bdc25ab695a0aa14a77d8df6.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/bdc25ab695a0aa14a77d8df6-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/bdc25ab695a0aa14a77d8df6-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Jet's Pizza Partners with the Alzheimer's Association",
-      "date_text": "Mon, Oct 19·10am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/3dd2374e38b13181a8509467.jpg",
-      "raw_text": "Jet's Pizza Partners with the Alzheimer's Association\nMon, Oct 19·10am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_IbgEGpj6ke0WjeaBkdjBQ.large.jpg",
-      "image_path": "chicagoEvents-images/3dd2374e38b13181a8509467.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/3dd2374e38b13181a8509467-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/3dd2374e38b13181a8509467-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Istock Family Look-In Lab",
-      "date_text": "Mon, Oct 19·10am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/81a72ff0dce4a4a5fb2ef1af.jpg",
-      "raw_text": "Istock Family Look-In Lab\nMon, Oct 19·10am·\nChicago\nInterested?",
-      "image_source_url": "https://d33c41ebahvfs6.cloudfront.net/static/images/local_events/ingested/fall_activity-7de3a8e1a0da8f0d2870a71e89dee359.jpg",
-      "image_path": "chicagoEvents-images/81a72ff0dce4a4a5fb2ef1af.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/81a72ff0dce4a4a5fb2ef1af-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/81a72ff0dce4a4a5fb2ef1af-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
-      "date_text": "Mon, Oct 19·11am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
-      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nMon, Oct 19·11am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PSWt9MaGmUGxNmVf6j-e4g.large.jpg",
-      "image_path": "chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/e7172a7c25c70450f505482c-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/e7172a7c25c70450f505482c-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "NFL Game Day Deals at Mac's Wood Grilled",
-      "date_text": "Mon, Oct 19·11am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/68baa0531b6e010c6a8fd7d1.jpg",
-      "raw_text": "NFL Game Day Deals at Mac's Wood Grilled\nMon, Oct 19·11am·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jz-eSyDpL0ud9izK_9HwzQ.large.jpg",
-      "image_path": "chicagoEvents-images/68baa0531b6e010c6a8fd7d1.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/68baa0531b6e010c6a8fd7d1-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/68baa0531b6e010c6a8fd7d1-32x64-pan.jpg"
-    },
-    {
-      "source": "visible_card",
-      "title": "Taste 222 Daily Happy Hour & Weekly Specials",
-      "date_text": "Mon, Oct 19·3pm·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
-      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nMon, Oct 19·3pm·\nChicago\nInterested?",
-      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LD8ToXioh0Oj7L3fo3QFdA.large.jpg",
-      "image_path": "chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/67215857020c7aa2ee57090a-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/67215857020c7aa2ee57090a-32x64-pan.jpg"
-    },
     {
       "source": "visible_card",
       "title": "Gilt Bar Happy Hour",
@@ -298,6 +190,54 @@
     },
     {
       "source": "visible_card",
+      "title": "Beyond the Grid Fairmont Chicago's Art Series",
+      "date_text": "Tue, Oct 20·8am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/93aa3a00d68bf17b1a788807.jpg",
+      "raw_text": "Beyond the Grid Fairmont Chicago's Art Series\nTue, Oct 20·8am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-3-Qi0EYE0SvUjyQNQ6-mw.large.jpg",
+      "image_path": "chicagoEvents-images/93aa3a00d68bf17b1a788807.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/93aa3a00d68bf17b1a788807-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/93aa3a00d68bf17b1a788807-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Coworking for a Cure",
+      "date_text": "Tue, Oct 20·8:30am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/dfcc11466df34a12b554601b.png",
+      "raw_text": "Coworking for a Cure\nTue, Oct 20·8:30am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_kkbZIJM4UixYwAUdLhx5A.large.png",
+      "image_path": "chicagoEvents-images/dfcc11466df34a12b554601b.png",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/dfcc11466df34a12b554601b-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/dfcc11466df34a12b554601b-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Jet's Pizza Partners with the Alzheimer's Association",
+      "date_text": "Tue, Oct 20·10am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/3dd2374e38b13181a8509467.jpg",
+      "raw_text": "Jet's Pizza Partners with the Alzheimer's Association\nTue, Oct 20·10am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_IbgEGpj6ke0WjeaBkdjBQ.large.jpg",
+      "image_path": "chicagoEvents-images/3dd2374e38b13181a8509467.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/3dd2374e38b13181a8509467-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/3dd2374e38b13181a8509467-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville",
+      "date_text": "Tue, Oct 20·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
+      "raw_text": "Roanoke Hospitality Opens La Bella Trattoria on Rush in Streeterville\nTue, Oct 20·11am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PSWt9MaGmUGxNmVf6j-e4g.large.jpg",
+      "image_path": "chicagoEvents-images/e7172a7c25c70450f505482c.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/e7172a7c25c70450f505482c-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/e7172a7c25c70450f505482c-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
       "title": "Pumpkin Painting + Dining Experience",
       "date_text": "Tue, Oct 20·11am·",
       "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/cb599e0cfa273912aa993dcc.png",
@@ -340,6 +280,18 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/882994a7db054ade82dddbd1-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/882994a7db054ade82dddbd1-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Taste 222 Daily Happy Hour & Weekly Specials",
+      "date_text": "Tue, Oct 20·3pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
+      "raw_text": "Taste 222 Daily Happy Hour & Weekly Specials\nTue, Oct 20·3pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LD8ToXioh0Oj7L3fo3QFdA.large.jpg",
+      "image_path": "chicagoEvents-images/67215857020c7aa2ee57090a.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/67215857020c7aa2ee57090a-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/67215857020c7aa2ee57090a-32x64-pan.jpg"
     },
     {
       "source": "visible_card",
@@ -463,6 +415,18 @@
     },
     {
       "source": "visible_card",
+      "title": "Mini Zoom Room",
+      "date_text": "Wed, Oct 21·10am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/bdc25ab695a0aa14a77d8df6.jpg",
+      "raw_text": "Mini Zoom Room\nWed, Oct 21·10am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3odQNri9tkSsndZmGnX2EA.large.jpg",
+      "image_path": "chicagoEvents-images/bdc25ab695a0aa14a77d8df6.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/bdc25ab695a0aa14a77d8df6-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/bdc25ab695a0aa14a77d8df6-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
       "title": "Wilderness Walk",
       "date_text": "Wed, Oct 21·10am·",
       "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/1422bfa8fcbb1f5ccb93df64.jpg",
@@ -484,6 +448,42 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/b5dfa600a9637b36990cbffe-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/b5dfa600a9637b36990cbffe-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "Emma Stebbins: Carving out History at Driehaus Museum",
+      "date_text": "Wed, Oct 21·11am·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/c2ad4756585a56a453d3682e.jpg",
+      "raw_text": "Emma Stebbins: Carving out History at Driehaus Museum\nWed, Oct 21·11am·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vocHlbMfmk6sTDKsmZQwEw.large.jpg",
+      "image_path": "chicagoEvents-images/c2ad4756585a56a453d3682e.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/c2ad4756585a56a453d3682e-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/c2ad4756585a56a453d3682e-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "CFO Mastermind Group",
+      "date_text": "Wed, Oct 21·1pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/133f17b16d00341267df5a31.jpg",
+      "raw_text": "CFO Mastermind Group\nWed, Oct 21·1pm·\nChicago\nInterested?",
+      "image_source_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/G6xqtE2GPEqaA_Yq3Ep8Hg.large.jpg",
+      "image_path": "chicagoEvents-images/133f17b16d00341267df5a31.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/133f17b16d00341267df5a31-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/133f17b16d00341267df5a31-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "title": "A Christmas Carol",
+      "date_text": "Wed, Oct 21·2pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/32b7b6b58ff03019340f4c4c.jpg",
+      "raw_text": "A Christmas Carol\nWed, Oct 21·2pm·\nChicago\nInterested?",
+      "image_source_url": "https://d33c41ebahvfs6.cloudfront.net/static/images/local_events/ingested/theater_2-e3f7563bb4aed073b30536f3b92d7e0f.jpg",
+      "image_path": "chicagoEvents-images/32b7b6b58ff03019340f4c4c.jpg",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/32b7b6b58ff03019340f4c4c-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/32b7b6b58ff03019340f4c4c-32x64-pan.jpg"
     }
   ]
 }
