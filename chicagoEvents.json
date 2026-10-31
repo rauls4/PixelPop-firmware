@@ -1,6 +1,6 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-10-31T12:00:35.313174+00:00",
+  "extracted_at": "2026-10-31T14:02:24.756055+00:00",
   "event_count": 40,
   "duplicates_removed": 40,
   "image_count": 38,
@@ -8,19 +8,6 @@
   "stop_reason": "max_events_reached",
   "completeness": "Events detected in loaded page content; completeness is not guaranteed.",
   "events": [
-    {
-      "source": "visible_card",
-      "url": "https://nextdoor.com/local_events/XbgQMSx488CR",
-      "title": "Beyond the Grid Fairmont Chicago's Art Series",
-      "date_text": "Sat, Oct 31·8am·",
-      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/93aa3a00d68bf17b1a788807.jpg",
-      "raw_text": "Beyond the Grid Fairmont Chicago's Art Series\nSat, Oct 31·8am·\nChicago",
-      "image_source_url": "https://cdn.cityspark.com/portalimages/portalimages/-3-Qi0EYE0SvUjyQNQ6-mw.large.jpg",
-      "image_path": "chicagoEvents-images/93aa3a00d68bf17b1a788807.jpg",
-      "image_download_status": "downloaded",
-      "panel_image": "chicagoEvents-images/panel/93aa3a00d68bf17b1a788807-64x32-pan.jpg",
-      "panel_image_portrait": "chicagoEvents-images/panel/93aa3a00d68bf17b1a788807-32x64-pan.jpg"
-    },
     {
       "source": "visible_card",
       "url": "https://nextdoor.com/local_events/y66YdS5kc4mt",
@@ -518,6 +505,19 @@
       "image_download_status": "downloaded",
       "panel_image": "chicagoEvents-images/panel/b02984d1a53ae56cc9754c17-64x32-pan.jpg",
       "panel_image_portrait": "chicagoEvents-images/panel/b02984d1a53ae56cc9754c17-32x64-pan.jpg"
+    },
+    {
+      "source": "visible_card",
+      "url": "https://nextdoor.com/local_events/L9pfzjpDgZg4",
+      "title": "Lilyisthatyou - The Flowers Have Feelings Tour",
+      "date_text": "Sat, Oct 31·8pm·",
+      "image": "https://raw.githubusercontent.com/rauls4/PixelPop-firmware/main/chicagoEvents-images/e9bc961b4fa87e01a2b61de7.png",
+      "raw_text": "Lilyisthatyou - The Flowers Have Feelings Tour\nSat, Oct 31·8pm·\nChicago",
+      "image_source_url": "https://cdn.cityspark.com/portalimages/portalimages/0MizxnU5jUan6449Efebbw.large.png",
+      "image_path": "chicagoEvents-images/e9bc961b4fa87e01a2b61de7.png",
+      "image_download_status": "downloaded",
+      "panel_image": "chicagoEvents-images/panel/e9bc961b4fa87e01a2b61de7-64x32-pan.jpg",
+      "panel_image_portrait": "chicagoEvents-images/panel/e9bc961b4fa87e01a2b61de7-32x64-pan.jpg"
     }
   ]
 }
