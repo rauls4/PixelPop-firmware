@@ -1,8 +1,8 @@
 {
   "source_url": "https://nextdoor.com/local_events/",
-  "extracted_at": "2026-11-08T13:00:46.230235+00:00",
+  "extracted_at": "2026-11-08T14:05:43.395576+00:00",
   "event_count": 40,
-  "duplicates_removed": 45,
+  "duplicates_removed": 46,
   "image_count": 36,
   "max_events": 40,
   "stop_reason": "max_events_reached",
